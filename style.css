@@ -1,0 +1,16 @@
+#title {
+    text-align: center;
+    color: green;
+}
+
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-image{
+    width: 300px;
+    height: auto;
+}
+
